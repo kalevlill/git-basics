@@ -17,3 +17,4 @@ fuenf
 vier
 drei
 zwei
+feierabend
