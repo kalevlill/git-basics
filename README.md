@@ -16,3 +16,4 @@ sechs
 fuenf
 vier
 drei
+zwei
