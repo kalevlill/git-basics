@@ -6,3 +6,4 @@ uebung
 wetter
 tag
 ernährung
+fussball
